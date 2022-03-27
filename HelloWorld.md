@@ -22,3 +22,4 @@ fun main() {
     println(sum(1, 2))                                                  
     println(divide(8, 4))
 }
+/** Next time use Float */
